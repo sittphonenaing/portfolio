@@ -1,0 +1,75 @@
+body
+{
+    font-family: 'Poppins', sans-serif;
+}
+.navbar-brand,.nav-link{
+    font-size: 20px;
+}
+.navbar-custom{
+    background-color: #001936;
+}
+
+.jumbotron{
+   background: url(img/jumbotron.jpg)no-repeat center center;
+   width:100%;
+   height: 100vh;
+   background-size: 100% 100%;
+   
+}
+.jumbotron h1,p{
+    color: white;
+}
+.icon-hover{
+    color: white;
+    padding: 2px;
+}
+.icon-hover:hover{
+    color: blue;
+}
+
+.margin-bot{
+    margin-bottom: 50px;
+    
+}
+.skill{
+    position: relative;
+}
+.skill .progress .per1,
+.skill .progress .per2,
+.skill .progress .per3,
+.skill .progress .per4,
+.skill .progress .per5 {
+    position: absolute;
+    top: 5px;
+    font-size:15px;
+}
+.per1{
+    left: 80%;
+}
+.per2{
+    left: 75%;
+}
+.per3{
+    left: 70%;
+}
+.per4{
+    left: 80%;
+}
+.per5{
+    left: 80%;
+}
+
+.section-2{
+    padding-top:0;
+    height: 70vh;
+}
+.card-text{
+    color: black;
+}
+.card-img-top{
+    border-bottom: 1px solid black;
+}
+
+.btn{
+    color: white;
+}
