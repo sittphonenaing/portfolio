@@ -73,3 +73,12 @@ body
 .btn{
     color: white;
 }
+
+.margin-top{
+    margin-top: 40px;
+}
+
+#contact{
+    margin-right: 0;
+    margin-left: 5px;
+}
